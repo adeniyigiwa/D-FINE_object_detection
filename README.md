@@ -9,9 +9,7 @@
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
-4. [Usage](#usage)
-
-   * [Google Colab](#google-colab)
+4. [Google Colab](#google-colab)
 6. [License](#license)
 7. [Acknowledgements](#acknowledgements)(#acknowledgements)
 
@@ -51,9 +49,7 @@
 
 ---
 
-## Usage
-
-### Google Colab
+## Google Colab
 
 1. Open the [demo notebook](https://colab.research.google.com/github/<your-username>/dfine-demo/blob/main/demo.ipynb).
 2. Run the setup cell to install the latest Transformers and other dependencies:
