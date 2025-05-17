@@ -11,7 +11,7 @@
 3. [Installation](#installation)
 4. [Google Colab](#google-colab)
 6. [License](#license)
-7. [Acknowledgements](#acknowledgements)(#acknowledgements)
+7. [Acknowledgements](#acknowledgements)
 
 ---
 
