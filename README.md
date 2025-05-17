@@ -12,11 +12,8 @@
 4. [Usage](#usage)
 
    * [Google Colab](#google-colab)
-5. [Project Structure](#project-structure)
-6. [Configuration](#configuration)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)(#acknowledgements)
+6. [License](#license)
+7. [Acknowledgements](#acknowledgements)(#acknowledgements)
 
 ---
 
