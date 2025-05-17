@@ -19,7 +19,6 @@
 
 * **Fine-grained Distribution Refinement (FDR):** Iterative, probabilistic bounding-box edge regression for precise localization.
 * **Global Optimal Localization Self-Distillation (GO-LSD):** Self-distillation mechanism that transfers refined localization signals across decoder layers.
-* **Real-time Performance:** Achieves up to **78 FPS** on COCO with **55.8% AP** using `dfine_x_coco`.
 * **Colab-Ready:** One-click setup instructions for Google Colab.
 * **Interactive Gradio App:** Web-based interface for uploading images and visualizing detections instantly.
 
@@ -50,7 +49,7 @@
 
 ## Google Colab
 
-1. Open the [demo notebook](https://colab.research.google.com/github/<your-username>/dfine-demo/blob/main/demo.ipynb).
+1. Open the [demo notebook](https://github.com/adeniyigiwa/D-FINE_object_detection/blob/main/D_Fine.ipynb).
 2. Run the setup cell to install the latest Transformers and other dependencies:
 
    ```bash
