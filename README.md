@@ -29,7 +29,6 @@
 
 * Python 3.8 or later
 * GPU with CUDA support (for Colab, ensure GPU runtime)
-* pip package manager
 
 ---
 
