@@ -8,10 +8,9 @@
 
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
-4. [Google Colab](#google-colab)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
+3. [Google Colab](#google-colab)
+4. [License](#license)
+5. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -28,22 +27,6 @@
 
 * Python 3.8 or later
 * GPU with CUDA support (for Colab, ensure GPU runtime)
-
----
-
-## Installation
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/<your-username>/dfine-demo.git
-   cd dfine-demo
-   ```
-2. Install dependencies via `requirements.txt`:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ---
 
